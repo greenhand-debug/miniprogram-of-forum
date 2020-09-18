@@ -75,7 +75,7 @@
 
 #### （7）项目效果截图
 发帖：
-![]（https://github.com/357662053/img-folder/blob/master/321.jpg）
+![Image text]（https://github.com/357662053/img-folder/blob/master/321.jpg）
 
 ## 三、关于项目
 该项目实现了：1.当帖子被评论时，可以收到微信订阅消息的通知 2.通过对比用户的"openid"带有评论的帖子删除 3.帖子点赞功能。
