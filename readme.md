@@ -48,6 +48,7 @@
 - admin｜权限：仅创建者可读写
 - comment | 权限：所有用户可读，仅创建者可读写
 - forum ｜ 权限：所有用户可读，仅创建者可读写
+- zan ｜ 权限：所有用户可读写
 
 ![](https://upload-dianshi-1255598498.file.myqcloud.com/06-8097b9e1ffe02bea6848daff26b3d9c579760ed0.png)
 
@@ -55,7 +56,7 @@
 在小程序开发者工具中，打开cloudfunctions目录，将所有的子目录，均右键，在菜单中点击“上传并部署：云端安装依赖”;
 ![](https://upload-dianshi-1255598498.file.myqcloud.com/07-48887bdb2898acedd392fe52bc13f2a7ab709f90.png)
 
-4个云函数在部署时会自动安装依赖。需要注意login下面需要有第2步下载的私钥文件。
+6个云函数在部署时会自动安装依赖。需要注意login下面需要有第2步下载的私钥文件。
 
 #### （5）部署WEB页面文件
 打开项目根目录下的hole.html文件，在第26行填写自己云开发环境ID，ID可以从云开发控制台设置页中找到。
